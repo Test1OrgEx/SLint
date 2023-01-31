@@ -11,3 +11,7 @@ function add() {
 function multiply(p1, p2) {
     return p1 * p2;
 }
+function substract(k1, k3){
+    if(k3>k2)
+    return 0
+    
